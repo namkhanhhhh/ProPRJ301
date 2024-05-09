@@ -1,0 +1,34 @@
+.cn{
+    text-align: center;
+padding-bottom: 10px;
+font-size: 40px;
+color: #b89e15;
+font-style: italic;
+padding-top: 50px;
+padding-right: 50px;
+}
+
+.category-list{
+list-style-type: none;
+display: flex;
+padding-left: 50px;
+padding-top: 10px;
+}
+
+.category-list li{
+padding-right: 165px;
+padding-bottom: 50px;
+}
+
+
+.cd{
+padding-left: 60px;
+}
+
+.category-item img{
+width: 60%;
+}
+
+.category-item p{
+    color: black;
+}

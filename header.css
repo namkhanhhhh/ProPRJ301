@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    /* Thiết lập margin và padding là 0 để loại bỏ khoảng cách mặc định */
+    margin: 0;
+    padding: 0;
+}
+
+#right-menu{
+    padding-left: 265px;
+}
+
+#tvmh{
+        color: white;
+    padding-right: 45px;
+    padding-top: 8px;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 520px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKPWhsMvA4xAZSKU24a0AkDJUFduTSCig-Q&usqp=CAU");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+header p {
+    font-size: 20px;
+    color: #d1d1d1;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.br-dark{
+    background-color: black;
+}
+
+#header{
+    background-color: darkslategray;
+}
+
+#nika{
+    color: white;
+}
+#textheader{
+    color: white;
+}
+
+
+    
